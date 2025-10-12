@@ -31,10 +31,9 @@ The objective of this project is to analyze insurance sales data to gain insight
 ## Excel Dashboard
 <img width="1856" height="943" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/7be975e4-23c7-4bc8-8f87-e2b43293caae" />
 ## Tableau Dashboard
-![Tableau Dashboard](https://github.com/user-attachments/assets/8b2130d5-aeec-4736-845f-c935af41a5fd)
+<img width="1856" height="943" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/9c2b01af-b41b-4d2f-9991-007033d20a04" />
 ## Power Bi Dashboard
 <img width="1401" height="798" alt="Power Bi Dashboard" src="https://github.com/user-attachments/assets/8753185c-940d-4e52-978f-0ac8b5de910f" />
-
 ## Final Conclusion 
 This Insurance Analytics dashboard effectively consolidates key performance metrics across multiple BI tools like Tableau, Power BI, and Excel demonstrating how consistent insights can be derived from the same dataset. By visualizing invoice counts, meeting activity, revenue targets, and opportunity stages, the dashboards provide actionable intelligence to improve sales performance, customer retention, and pipeline management. The comparative analysis highlights areas of strength and opportunities for growth, empowering stakeholders to make informed, data-driven decisions that drive business success.
 
