@@ -1,6 +1,6 @@
 # Insurance Analytics (Interactive dashboards built using MS Excel and Tableau)
 ## Project Objective
-The objective of this project is to analyze insurance sales data to gain insights into cross-sell performance, policy renewals, new business acquisition, and account executive efficiency. The goal is to enable data-driven decision-making by visualizing key metrics such as revenue, meeting counts, invoices, and opportunity stages using Tableau, Power BI, and Excel. This multi-tool approach demonstrates how the same dataset can be effectively used across different BI platforms for comprehensive business analysis and performance tracking.
+The objective of this project is to analyze insurance sales data to gain insights into cross-sell performance, policy renewals, new business acquisition, and account executive efficiency. The goal is to enable data-driven decision-making by visualizing key metrics such as revenue, meeting counts, invoices, and opportunity stages using Tableau and Excel. This multi-tool approach demonstrates how the same dataset can be effectively used across different BI platforms for comprehensive business analysis and performance tracking.
 ## Dataset used
 - <a href="https://github.com/DeekshithReddy03/Data-Analytics-Project-Using-Data-Visualization-Tools/tree/main/Insurance%20Analytics">Dataset</a>
 ## Question (KPI’s)
@@ -15,7 +15,7 @@ The objective of this project is to analyze insurance sales data to gain insight
 ## Process
 -	Collected and cleaned the insurance dataset in Excel to ensure accuracy and consistency.
 -	Identified key KPIs such as invoices, meetings, cross-sell, renewals, new business, and opportunity stages.
--	Used the same dataset to build dashboards individually in Tableau, Power BI, and Excel.
+-	Used the same dataset to build dashboards individually in Tableau, and Excel.
 -	Applied charts, filters, and visuals to represent each KPI clearly and interactively.
 -	Focused on comparing performance by Account Executives and tracking targets vs achievements.
 -	Finalized dashboards to showcase how different BI tools can be used to derive similar insights.
@@ -35,4 +35,4 @@ The objective of this project is to analyze insurance sales data to gain insight
 <img width="1856" height="943" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/9c2b01af-b41b-4d2f-9991-007033d20a04" />
 
 ## Final Conclusion 
-This Insurance Analytics dashboard effectively consolidates key performance metrics across multiple BI tools like Tableau, Power BI, and Excel demonstrating how consistent insights can be derived from the same dataset. By visualizing invoice counts, meeting activity, revenue targets, and opportunity stages, the dashboards provide actionable intelligence to improve sales performance, customer retention, and pipeline management. The comparative analysis highlights areas of strength and opportunities for growth, empowering stakeholders to make informed, data-driven decisions that drive business success.
+This Insurance Analytics dashboard effectively consolidates key performance metrics across multiple tools like Tableau, and Excel demonstrating how consistent insights can be derived from the same dataset. By visualizing invoice counts, meeting activity, revenue targets, and opportunity stages, the dashboards provide actionable intelligence to improve sales performance, customer retention, and pipeline management. The comparative analysis highlights areas of strength and opportunities for growth, empowering stakeholders to make informed, data-driven decisions that drive business success.
